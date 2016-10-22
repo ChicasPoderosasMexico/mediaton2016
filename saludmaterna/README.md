@@ -1,6 +1,6 @@
-Datos sobre Madres en México
+# Datos sobre Madres en México
 
-I. MADRES EN MÉXICO
+## I. MADRES EN MÉXICO
 
 •	En México hay 33 millones de madres
 
@@ -19,7 +19,7 @@ I. MADRES EN MÉXICO
 Fuente: Cálculos con base en los resultados de la Encuesta Nacional de Ocupación y Empleo (ENOE) correspondientes al 4° trimestre de 2014, INEGI.
 
 
-II. JEFAS DE FAMILIA
+## II. JEFAS DE FAMILIA
 
 •	En una década (2000-2010) crecieron más los hogares con jefas de familia que lo que cuentan con un jefe de familia. Los censos de población más recientes, muestran que los primeros crecieron 50% mientras que los segundos aumentaron 20%
 
@@ -30,7 +30,7 @@ Fuente: Cálculos con base en los resultados de los Censos de Población y Vivie
 
 
 
-III. EMBARAZOS
+## III. EMBARAZOS
 
 •	A partir de 2006, se dio un incremento importante en el número de embarazos de adolescentes de 15 a 19 años, aumentando 14% entre 2006 y 2013.
 
@@ -46,7 +46,7 @@ III. EMBARAZOS
 Fuente: Cálculos con base en las Estadísticas de Natalidad, INEGI.
 
 
-IV. MORTALIDAD MATERNA
+## IV. MORTALIDAD MATERNA
 
 •	La mortalidad materna se ha venido reduciendo en la última década, pasando de una razón de 56 a 38 muertes por cada 100 mil nacidos vivos entre 2002 y 2013.
 
