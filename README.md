@@ -40,4 +40,4 @@ http://datos.imss.gob.mx/
 
 ### Infografía del Dia de las Niñas (INEGI)
 [Infografia](https://s21.postimg.org/itzuns21j/infografi_a_11_oct_dia_de_la_nin_a_D.jpg)
-
+[Documento de estadísticas por el dia de la Niña](http://bit.ly/2eEtQpD)
