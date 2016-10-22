@@ -35,6 +35,9 @@ http://databank.bancomundial.org/data/reports.aspx?source=indicadores-del-desarr
 ### Muerte Materna
 http://www.dgis.salud.gob.mx/contenidos/publicaciones/p_BIyRMM_gobmx.html
 
+## Encuesta Trans
+https://www.insp.mx/images/stories/Centros/CIEE/Docs/130513_reporteTecnico.pdf
+
 ### Datos de Salud
 
 
