@@ -36,8 +36,20 @@ http://databank.bancomundial.org/data/reports.aspx?source=indicadores-del-desarr
 http://www.dgis.salud.gob.mx/contenidos/publicaciones/p_BIyRMM_gobmx.html
 
 ### Datos de Salud
-http://datos.imss.gob.mx/
+
 
 ### Infografía del Dia de las Niñas (INEGI)
 [Infografia](https://s21.postimg.org/itzuns21j/infografi_a_11_oct_dia_de_la_nin_a_D.jpg)
 [Documento de estadísticas por el dia de la Niña](http://bit.ly/2eEtQpD)
+
+
+## Repositorios de datos nacionales
+
+Tip: La búsqueda y análisis de los temas "por género" arrojan datos muy interesantes.
+[Datos.gob.mx](http://datos.gob.mx/)
+[http://www.gobiernoabierto.cdmx.gob.mx/](http://www.gobiernoabierto.cdmx.gob.mx/sigdata/index.php/Publicacion/index)
+[http://datos.imss.gob.mx/](http://datos.imss.gob.mx/)
+
+## Subcarpetas de este repositorio
+
+Algunas fuentes de datos especializadas están disponibles en este repositorio. (:
