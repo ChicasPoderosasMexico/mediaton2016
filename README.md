@@ -46,9 +46,9 @@ http://www.dgis.salud.gob.mx/contenidos/publicaciones/p_BIyRMM_gobmx.html
 ## Repositorios de datos nacionales
 
 Tip: La búsqueda y análisis de los temas "por género" arrojan datos muy interesantes.
-[Datos.gob.mx](http://datos.gob.mx/)
-[http://www.gobiernoabierto.cdmx.gob.mx/](http://www.gobiernoabierto.cdmx.gob.mx/sigdata/index.php/Publicacion/index)
-[http://datos.imss.gob.mx/](http://datos.imss.gob.mx/)
+- [Datos.gob.mx](http://datos.gob.mx/)
+- [http://www.gobiernoabierto.cdmx.gob.mx/](http://www.gobiernoabierto.cdmx.gob.mx/sigdata/index.php/Publicacion/index)
+- [http://datos.imss.gob.mx/](http://datos.imss.gob.mx/)
 
 ## Subcarpetas de este repositorio
 
