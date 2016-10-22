@@ -31,3 +31,10 @@ http://estadisticas.cepal.org/cepalstat/WEB_CEPALSTAT/infografias.asp?idioma=e
 Repositorio
 http://databank.bancomundial.org/data/home.aspx
 http://databank.bancomundial.org/data/reports.aspx?source=indicadores-del-desarrollo-mundial
+
+Muerte Materna
+http://www.dgis.salud.gob.mx/contenidos/publicaciones/p_BIyRMM_gobmx.html
+
+Datos de Salud
+http://datos.imss.gob.mx/
+
